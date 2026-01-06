@@ -1,4 +1,4 @@
-# Tennis Win Analysis
+# Tennis-Analytics-Model
 
 This project analyzes professional tennis match data to identify the most influential performance metrics driving match outcomes, combining statistical modeling and machine learning.
 
@@ -30,4 +30,3 @@ tennis-win-analysis/
    ```bash
    pip install -r requirements.txt
    ```
-
