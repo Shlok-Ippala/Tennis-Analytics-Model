@@ -1,0 +1,4 @@
+model,true_negative,false_positive,false_negative,true_positive
+Logistic Regression,3046,1482,1662,2789
+Random Forest,3012,1516,1650,2801
+XGBoost,3037,1491,1672,2779

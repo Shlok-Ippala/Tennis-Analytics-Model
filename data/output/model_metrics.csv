@@ -1,0 +1,4 @@
+model,accuracy,roc_auc,log_loss
+Logistic Regression,0.6498,0.7098,0.6244
+Random Forest,0.6474,0.7102,0.6215
+XGBoost,0.6477,0.7055,0.6287

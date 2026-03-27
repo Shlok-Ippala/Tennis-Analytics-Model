@@ -1,0 +1,52 @@
+model,feature,importance
+Logistic Regression,delta_rank,-0.3304
+Logistic Regression,delta_rank_points,0.581225
+Logistic Regression,delta_age,-0.061944
+Logistic Regression,delta_ht,0.085029
+Logistic Regression,delta_rank_missing,0.046676
+Logistic Regression,delta_rank_points_missing,0.046676
+Logistic Regression,delta_age_missing,-0.025667
+Logistic Regression,delta_ht_missing,0.037117
+Logistic Regression,delta_win_pct_52w,0.031175
+Logistic Regression,delta_win_pct_52w_surface,0.274561
+Logistic Regression,delta_win_pct_10w,0.184622
+Logistic Regression,has_history_A,0.000333
+Logistic Regression,has_history_B,-0.003471
+Logistic Regression,has_surface_history_A,0.024023
+Logistic Regression,has_surface_history_B,-0.020089
+Logistic Regression,has_10w_history_A,0.008264
+Logistic Regression,has_10w_history_B,-0.026672
+Random Forest,delta_rank,0.217203
+Random Forest,delta_rank_points,0.28294
+Random Forest,delta_age,0.02526
+Random Forest,delta_ht,0.021377
+Random Forest,delta_rank_missing,0.00188
+Random Forest,delta_rank_points_missing,0.001462
+Random Forest,delta_age_missing,0.0
+Random Forest,delta_ht_missing,0.003909
+Random Forest,delta_win_pct_52w,0.178038
+Random Forest,delta_win_pct_52w_surface,0.146019
+Random Forest,delta_win_pct_10w,0.087645
+Random Forest,has_history_A,0.00122
+Random Forest,has_history_B,0.005937
+Random Forest,has_surface_history_A,0.003767
+Random Forest,has_surface_history_B,0.007542
+Random Forest,has_10w_history_A,0.003525
+Random Forest,has_10w_history_B,0.012276
+XGBoost,delta_rank,0.163611
+XGBoost,delta_rank_points,0.178488
+XGBoost,delta_age,0.027609
+XGBoost,delta_ht,0.03061
+XGBoost,delta_rank_missing,0.09053
+XGBoost,delta_rank_points_missing,0.0
+XGBoost,delta_age_missing,0.0
+XGBoost,delta_ht_missing,0.058364
+XGBoost,delta_win_pct_52w,0.094526
+XGBoost,delta_win_pct_52w_surface,0.073708
+XGBoost,delta_win_pct_10w,0.044741
+XGBoost,has_history_A,0.026512
+XGBoost,has_history_B,0.062019
+XGBoost,has_surface_history_A,0.041396
+XGBoost,has_surface_history_B,0.036619
+XGBoost,has_10w_history_A,0.03098
+XGBoost,has_10w_history_B,0.040288
